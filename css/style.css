@@ -19,6 +19,29 @@ img {
     border-radius: 14px;
     border-top: 5px solid white;
     border-bottom: 5px solid white;
-    transform: rotate(-15deg);
-    margin-left: 450px;
+    transform: rotate(-12deg);
+    margin-left: 900px;
+    box-shadow: 0px 0px 1px 3px #DCDCDC;
+}
+
+.toplogo {
+ font-weight: 15px;
+ font-size: 30px;
+ padding: 4px;
+}
+
+h1 {
+ text-align: left;
+}
+
+h2 {
+  text-align: left;
+}
+
+h3 {
+  text-align: left;;
+}
+
+p {
+  text-align: left;
 }
